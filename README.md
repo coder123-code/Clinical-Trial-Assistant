@@ -33,19 +33,9 @@ Prerequisites: Java 21, MySQL 8, Python 3.11+, and Node 20+.
    npm run dev
    ```
 
-5. Open `http://localhost:5173/demo` and follow the ten-step Demo Journey.
+5. Open `http://localhost:5173/demo` 
 
-## Judge-ready walkthrough
 
-1. Begin in **Demo Journey**.
-2. Open **Patients**, search for **John Smith**, and show four source identities resolving to `P000001`.
-3. Open John's timeline and select **View Source** on HbA1c or eGFR to display the preserved FHIR evidence.
-4. Open **Clinical Trials** and select `TRIAL-DM2-001`.
-5. Create a new trial and choose **Load winning demo protocol**. This is the reliable fallback if a PDF or network call is unavailable.
-6. Run matching for John (eligible), Jane/Robert/Elena (not eligible), and Maya (potentially eligible because eGFR is missing).
-7. Open a match explanation and verify each criterion result.
-8. Open **Review Queue**, select Maya, add clinical notes, and make a decision.
-9. Open **Audit Trail** to show the recorded review.
 
 All included records are synthetic and must not be used for clinical decisions.
 
