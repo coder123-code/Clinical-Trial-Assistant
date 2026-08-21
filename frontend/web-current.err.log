@@ -1,0 +1,41 @@
+08:10:28 [vite] Pre-transform error: Failed to load url /src/App.jsx (resolved id: C:/Users/swami/Downloads/hexaware/frontend/src/App.jsx) in C:/Users/swami/Downloads/hexaware/frontend/src/main.jsx. Does the file exist?
+16:12:33 [vite] Internal server error: Failed to resolve import "./components/TrialOperations" from "src/App.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: C:/Users/swami/Downloads/hexaware/frontend/src/App.jsx:4:236
+  23 |  import PatientProfile from "./components/PatientProfile";
+  24 |  import TrialHub from "./components/TrialHub";
+  25 |  import TrialOperations from "./components/TrialOperations";
+     |                               ^
+  26 |  import MatchExplanation from "./components/MatchExplanation";
+  27 |  import ReviewQueue from "./components/ReviewQueue";
+      at TransformPluginContext._formatError (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 10)
+      at async TransformPluginContext.transform (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)
+16:13:00 [vite] Pre-transform error: Failed to load url /src/App.jsx (resolved id: C:/Users/swami/Downloads/hexaware/frontend/src/App.jsx) in C:/Users/swami/Downloads/hexaware/frontend/src/main.jsx. Does the file exist?
+16:13:40 [vite] Pre-transform error: Failed to resolve import "./components/TrialOperations" from "src/App.jsx". Does the file exist?
+16:13:41 [vite] Internal server error: Failed to resolve import "./components/TrialOperations" from "src/App.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: C:/Users/swami/Downloads/hexaware/frontend/src/App.jsx:4:236
+  23 |  import PatientProfile from "./components/PatientProfile";
+  24 |  import TrialHub from "./components/TrialHub";
+  25 |  import TrialOperations from "./components/TrialOperations";
+     |                               ^
+  26 |  import MatchExplanation from "./components/MatchExplanation";
+  27 |  import ReviewQueue from "./components/ReviewQueue";
+      at TransformPluginContext._formatError (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49258:41)
+      at TransformPluginContext.error (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49253:16)
+      at normalizeUrl (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64307:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64439:39
+      at async Promise.all (index 10)
+      at async TransformPluginContext.transform (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:64366:7)
+      at async PluginContainer.transform (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:49099:18)
+      at async loadAndTransform (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:51978:27)
+      at async viteTransformMiddleware (file:///C:/Users/swami/Downloads/hexaware/frontend/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:62106:24)

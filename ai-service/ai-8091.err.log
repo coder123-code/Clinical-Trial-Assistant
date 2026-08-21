@@ -1,0 +1,6 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\swami\\Downloads\\hexaware\\ai-service']
+INFO:     Uvicorn running on http://0.0.0.0:8091 (Press CTRL+C to quit)
+INFO:     Started reloader process [32800] using WatchFiles
+INFO:     Started server process [42316]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.

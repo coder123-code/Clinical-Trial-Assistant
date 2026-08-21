@@ -1,0 +1,6 @@
+INFO:     127.0.0.1:58512 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50598 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53102 - "POST /extract-criteria HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56454 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59684 - "POST /extract-criteria HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54148 - "POST /extract-criteria HTTP/1.1" 200 OK

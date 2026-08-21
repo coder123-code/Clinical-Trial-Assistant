@@ -1,0 +1,36 @@
+
+> clinical-trial-research-assistant@1.0.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v5.4.21  ready in 741 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://10.83.136.1:5174/
+  ➜  Network: http://172.25.192.1:5174/
+08:03:38 [vite] hmr update /src/index.css
+08:04:07 [vite] hmr update /src/App.jsx, /src/index.css
+08:13:25 [vite] hmr update /src/App.jsx
+08:13:25 [vite] hmr update /src/App.jsx
+08:15:16 [vite] hmr update /src/components/DemoJourney.jsx, /src/index.css
+08:15:27 [vite] hmr update /src/components/TrialHub.jsx, /src/index.css
+08:15:39 [vite] hmr update /src/components/ComplianceAudit.jsx, /src/index.css
+08:16:11 [vite] hmr update /src/components/PatientSearch.jsx, /src/index.css
+08:16:22 [vite] hmr update /src/components/PatientProfile.jsx, /src/index.css
+08:35:24 [vite] hmr update /src/index.css, /src/components/DemoJourney.jsx, /src/components/PatientProfile.jsx, /src/components/ComplianceAudit.jsx, /src/components/ReviewQueue.jsx, /src/components/PatientSearch.jsx, /src/components/Dashboard.jsx, /src/components/MatchExplanation.jsx, /src/components/TrialHub.jsx
+08:36:27 [vite] hmr update /src/components/TrialHub.jsx, /src/index.css
+08:37:00 [vite] hmr update /src/components/TrialHub.jsx, /src/index.css
+08:50:26 [vite] hmr update /src/index.css, /src/components/DemoJourney.jsx, /src/components/PatientProfile.jsx, /src/components/ComplianceAudit.jsx, /src/components/ReviewQueue.jsx, /src/components/PatientSearch.jsx, /src/components/Dashboard.jsx, /src/components/MatchExplanation.jsx, /src/components/TrialHub.jsx
+08:50:38 [vite] hmr update /src/components/PatientProfile.jsx, /src/index.css
+08:50:50 [vite] hmr update /src/components/MatchExplanation.jsx, /src/index.css
+08:51:23 [vite] hmr update /src/components/PatientProfile.jsx, /src/index.css
+08:51:35 [vite] hmr update /src/components/MatchExplanation.jsx, /src/index.css
+08:57:13 [vite] hmr update /src/components/PatientProfile.jsx, /src/index.css
+09:09:33 [vite] hmr update /src/index.css, /src/components/DemoJourney.jsx, /src/components/PatientProfile.jsx, /src/components/ComplianceAudit.jsx, /src/components/ReviewQueue.jsx, /src/components/PatientSearch.jsx, /src/components/Dashboard.jsx, /src/components/MatchExplanation.jsx, /src/components/TrialHub.jsx
+09:09:44 [vite] hmr update /src/components/SourceDocumentContent.jsx, /src/index.css
+16:12:20 [vite] hmr update /src/index.css, /src/components/DemoJourney.jsx, /src/components/PatientProfile.jsx, /src/components/ComplianceAudit.jsx, /src/components/ReviewQueue.jsx, /src/components/PatientSearch.jsx, /src/components/Dashboard.jsx, /src/components/MatchExplanation.jsx, /src/components/TrialHub.jsx
+16:12:33 [vite] hmr update /src/App.jsx, /src/index.css
+16:13:00 [vite] page reload src/App.jsx
+16:13:40 [vite] page reload src/App.jsx
+16:13:40 [vite] page reload src/App.jsx
+16:14:43 [vite] page reload src/components/TrialOperations.jsx
